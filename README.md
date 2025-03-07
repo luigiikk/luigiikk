@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-A web developer in continuous learning, utilizing technologies such as JavaScript, Next.js, TypeScript, and Node.js. Currently, I am the Project Director at TecnoSystem EJ.
+A web developer in continuous learning, utilizing technologies such as JavaScript, Next.js, TypeScript, Java, and Node.js. Currently, I am the Project Director at TecnoSystem EJ.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luigimee15@gmail.com](mailto:luigimee15@gmail.com)
-* 🧠  I'm learning Angular, Java and ReactNative
-* ⚡  Bachelor of Information Systems (in progress)
+* 🧠  I'm learning Angular, Java and Spring 
+* ⚡  Bachelor of Software Engineer (in progress)
 
 ### Skills
 
