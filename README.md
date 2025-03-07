@@ -57,9 +57,6 @@ A web developer in continuous learning, utilizing technologies such as JavaScrip
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Boot" />
-  </a>
 </p>
 
 
