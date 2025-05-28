@@ -8,7 +8,7 @@ A web developer in continuous learning, utilizing technologies such as JavaScrip
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luigimee15@gmail.com](mailto:luigimee15@gmail.com)
-* 🧠  I'm learning Angular, Java and Spring 
+* 🧠  I'm learning PHP and JAVA
 * ⚡  Bachelor of Software Engineer (in progress)
 
 ### Skills
